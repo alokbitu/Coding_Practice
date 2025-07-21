@@ -1,0 +1,1 @@
+#read all the elements of a string

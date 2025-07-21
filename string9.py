@@ -1,0 +1,1 @@
+#remove a word in a string

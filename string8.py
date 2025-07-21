@@ -1,0 +1,1 @@
+#remove one charcater from a string

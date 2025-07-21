@@ -1,0 +1,1 @@
+#delete all the duplicates from a string and covert it to an array

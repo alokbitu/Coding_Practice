@@ -1,0 +1,1 @@
+#covert a string to an array with each word
